@@ -1,30 +1,25 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<title>John Bier</title>
-    
-  
- <head></head>
-  <body>
-   <p>
-  Contact Me
-  <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
-	<div class="row">
-		<label for="name">Your name:</label><br />
-		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
-	</div>
-	<div class="row">
-		<label for="email">Your email:</label><br />
-		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
-	</div>
-	<div class="row">
-		<label for="message">Your message:</label><br />
-		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
-	</div>
-	<input id="submit_button" type="submit" value="Send email" />
-</form>						
-
-  </p>
-
-   </body>
+ <head>
+   <meta charset="utf-8">
+   <title>title</title>
+   <script src="script.js"></script>
+ </head>
+ <body>
+  <form action="/my-handling-form-page" method="post">
+   <div>
+       <label for="name">Name:</label>
+       <input type="text" id="name" />
+   </div>
+   <div>
+       <label for="mail">E-mail:</label>
+       <input type="email" id="mail" />
+   </div>
+   <div>
+       <label for="msg">Message:</label>
+       <textarea id="msg"></textarea>
+   </div>
+</form>
+ </body>
 </html>
