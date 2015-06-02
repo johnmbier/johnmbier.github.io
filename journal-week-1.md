@@ -1,1 +1,2 @@
 week 1:
+I was surprised, actually overwhelmed at the fast-pace and sheer volume of the material covered. We were told on Friday during our stand-up with Susanna that it was a "Firehose" method. This method basically says that if you shoot water through a firehose at someone's face, the probability of atleast some water getting inside of that person's mouth is pretty high. The water is the material we are learning and our brain is the open mouth in this analogy. I definitely feel like I'm being firehosed. 
